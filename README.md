@@ -29,6 +29,7 @@ int main()
   return 0;
 }
 ```
+[![Build Status](https://travis-ci.org/csci3250-2019/project-team-e.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-e)
 
 ## Contributors ##
 
