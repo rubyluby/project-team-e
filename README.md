@@ -1,3 +1,5 @@
-Sorry our group is yet to start working. Have patience...
+#Introduction
 
-Please refer to tasks.md
+#Code
+
+#Contributors
