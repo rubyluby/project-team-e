@@ -8,8 +8,15 @@ This repo is building a page in [this page](https://csci3250-2019.github.io/proj
 #include <stdio.h>
 #include <stdlib.h>
 
+void tom0034()
+{
+  printf("Hi i am Thomas!\n");  
+}
+
+
 int main()
 {
+  tom0034();
   return 0;
 }
 ```
