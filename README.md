@@ -21,4 +21,4 @@ int main()
 {% include_relative _stu/1155104476.md %}
 {% include_relative _stu/1155108869.md %}
 
-{{last_modified_at}}
+{{site.time}}
