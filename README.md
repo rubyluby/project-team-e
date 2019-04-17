@@ -1,6 +1,7 @@
-#Introduction#
-  This repo is building a page in [this page](https://csci3250-2019.github.io/projrct-team-e).
+# Introduction #
 
-#Code#
+This repo is building a page in [this page](https://csci3250-2019.github.io/projrct-team-e).
 
-#Contributors#
+# Code #
+
+# Contributors #
