@@ -11,13 +11,17 @@ void wing0114(){
 
 void yuchitoto()
 {
-  printf("Hallo, Ich heisse Toto.\n")
+  printf("Hallo, Ich heisse Toto.\n");
 }
 
+void soapony()
+{
+  printf("始めまして、私の名前はSoa。\nhajime mashite watashi no namae ha Soa。\n");
 int main()
 {
   tom0034();
   wing0114();
   yuchitoto();
+  soapony();
   return 0;
 }
