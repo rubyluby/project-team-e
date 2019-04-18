@@ -7,6 +7,7 @@ This repo is building a page in [this page](https://csci3250-2019.github.io/proj
 ```c
 #include <stdio.h>
 #include <stdlib.h>
+#include <uchar.h>
 
 void tom0034()
 {
@@ -18,7 +19,12 @@ void wing0114(){
 
 void yuchitoto()
 {
-  printf("Hallo, Ich heisse Toto.\n")
+  printf("Hallo, Ich heisse Toto.\n");
+}
+
+void soapony()
+{
+  printf("始めまして、私の名前はSoa。\nhajime mashite watashi no namae ha Soa。\n");
 }
 
 int main()
@@ -26,6 +32,7 @@ int main()
   tom0034();
   wing0114();
   yuchitoto();
+  soapony();
   return 0;
 }
 ```
