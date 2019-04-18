@@ -12,7 +12,7 @@ void wing0114(){
 
 void yuchitoto()
 {
-  printf("Hallo, Ich heisse Toto.\n");
+  printf("Hallo, Ich heiße Toto.\n");
 }
 
 void soapony()  //Unsure whether can print with printf or not (by @yuchitoto)
