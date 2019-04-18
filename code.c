@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <uchar.h>
 
 void tom0034()
 {
@@ -14,9 +15,11 @@ void yuchitoto()
   printf("Hallo, Ich heisse Toto.\n");
 }
 
-void soapony()
+void soapony()  //Unsure whether can print with printf or not (by @yuchitoto)
 {
   printf("始めまして、私の名前はSoa。\nhajime mashite watashi no namae ha Soa。\n");
+}
+
 int main()
 {
   tom0034();
